@@ -1,6 +1,6 @@
 # Donovan Appelhans
 # UWYO COSC 1010
-# Submission Date
+# 10/2/2024
 # Lab 04 
 # Lab Section: 12 
 # Sources, people worked with, help given to: 
